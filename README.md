@@ -8,7 +8,6 @@ Un objet affectif, éducatif et low-tech, pensé pour éveiller à la tendresse,
 
 ---
 
-![Schéma](images/Plushie_schema.jpg)
 ![image](images/Plushie_save_me.png)
 
 ---
@@ -23,6 +22,8 @@ Ce geste :
 - Active une **dynamo miniature** ou recharge un composant électrique
 - Relance le **cycle de respiration**
 - Émet un **son,  lumière ou ouverture des yeux** simulant un retour à la vie
+
+🔧 [Vue d’ensemble technique détaillée](tech/DOUDOU_TECH_OVERVIEW.md)
 
 ---
 
