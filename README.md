@@ -62,22 +62,11 @@ Ainsi, le jouet combine **interaction pédagogique** (gestes de premiers secours
 
 ## ⚙️ Idée technique (à affiner)
 
-- **Soufflet ou pompe interne** (manuel, servo ou passif)
 - **Capteur de pression** pour détecter le massage
-- **Mini dynamo ou moteur inversé** pour recharge simple
 - **Capteur de lumière** pour yeux jour/nuit
 - **Corps textile ou imprimé**, ergonomique et tendre
 
 🚀 [Idées futures & extensions](tech/Plushie_FUTURE_IDEAS.md)
-
----
-
-## 🚩 Roadmap (v0.1 — Q3 2025)
-| Étape | Description | Statut |
-|-------|-------------|--------|
-| 🔧 Maquette 3D | Modéliser pompe + ballon dans FreeCAD | 🟡 En cours |
-| 🧵 Prototype soft | Patron couture + cousu main tissu coton | ⬜ |
-| ⚡ Test dynamo | Micro-générateur 3 V actionné par pression | ⬜ |
 
 ---
 
@@ -160,23 +149,11 @@ The toy therefore combines **hands‑on first‑aid interaction** with **extende
 
 ## ⚙️ Technical concept (to refine)
 
-- **Internal bellows or pump** (manual, servo or passive)
 - **Pressure sensor** to detect massage
-- **Mini dynamo or reversed motor** for simple recharging
 - **Light sensor** for day/night eyes
 - **Textile or printed body**, ergonomic and cuddly
 
 🚀 [Future ideas & extensions](tech/Plushie_FUTURE_IDEAS.md)
-
----
-
-## 🚩 Roadmap (v0.1 — Q3 2025)
-
-| Step | Description | Status |
-|------|-------------|--------|
-| 🔧 3D Mock‑up | Model pump + bladder in FreeCAD | 🟡 In progress |
-| 🧵 Soft Prototype | Sewing pattern + hand‑sewn cotton fabric | ⬜ Not started |
-| ⚡ Dynamo Test | 3 V micro‑generator actuated by pressure | ⬜ Not started |
 
 ---
 
