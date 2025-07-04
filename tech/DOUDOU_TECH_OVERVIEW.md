@@ -44,7 +44,7 @@ Pression → Dynamo → Supercondo → MCU (+ batterie) → Pompe → Ballon →
 ## 👁️ Clignement des yeux (optionnel)
 
 - Un **capteur de lumière** permet de déclencher le clignement régulier des yeux du Doudou (ex. toutes les 20 sec).
-- Ce module consomme peu et fonctionne tant que la dynamo a de l’énergie.
+- Ce module consomme peu et fonctionne tant que la batterie à de l’énergie et que le système n'est pas en veille.
 
 ---
 
@@ -89,7 +89,12 @@ When the toy has been unused for a set period:
 
 ---
 
+Pressure → Dynamo → Super-capacitor → MCU (+ battery) → Pump → Bladder → Valve.
+
+---
+
 ## 👁️ Eye Blinking (Optional)
 
 - A **light sensor** triggers regular blinking of the Plushie’s eyes (e.g. every 20 s).  
-- This module consumes little power and operates as long as the dynamo has energy.
+- This module consumes little power and works as long as the battery has power and the system is not in standby mode.
+
