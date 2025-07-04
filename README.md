@@ -53,6 +53,8 @@ Ce geste :
 - **Capteur de lumière** pour yeux jour/nuit
 - **Corps textile ou imprimé**, ergonomique et tendre
 
+🚀 [Idées futures & extensions](tech/Plushie_FUTURE_IDEAS.md)
+
 ---
 
 ## 📜 Licence
