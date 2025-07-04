@@ -1,5 +1,4 @@
-\
-    # Plushie Breathe With Me – Extensions « Jouet Vivant »
+ # Plushie Breathe With Me – Extensions « Jouet Vivant »
 
     Ce document décrit trois ajouts qui donnent l’illusion d’un compagnon vivant : **battements de cœur**, **chaleur corporelle** et **réactions spontanées**.  
     Chaque section précise le concept, le matériel minimal, ainsi qu’un exemple d’implantation avec un micro‑contrôleur ESP32‑C3 ou Arduino.
