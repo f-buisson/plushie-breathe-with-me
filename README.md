@@ -1,7 +1,15 @@
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-BY--NC_4.0-lightgrey.svg)](governance/LICENSE.md)
+[![Commercial](https://img.shields.io/badge/Commercial%20Use-€4000/yr-blue)](governance/COMMERCIAL_LICENSE_EN.md)
+
 # ❤️ Plushie - breathe with me
 
 Un doudou biomimétique qui respire, s’éteint… et peut être réanimé par massage cardiaque.  
 Un objet affectif, éducatif et low-tech, pensé pour éveiller à la tendresse, à la survie et à l’attention.
+
+---
+
+![Schéma](images/Plushie - breathe with me SCHEMA.jpg)
+![image](images/Plushie - breathe with me S- save me.png)
 
 ---
 
