@@ -24,6 +24,7 @@ Ce geste :
 - Émet un **son,  lumière ou ouverture des yeux** simulant un retour à la vie
 
 🔧 [Vue d’ensemble technique détaillée](tech/DOUDOU_TECH_OVERVIEW.md)
+🔌 [Cycle énergétique & autonomie](tech/POWER_LIFECYCLE.md)
 
 ---
 
