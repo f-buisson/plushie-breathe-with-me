@@ -57,10 +57,16 @@ Ce geste :
 
 ---
 
-## 📜 Licence
+## 📜 Licences & cadre légal  
 
-- **Non-commercial** (Creative Commons BY-NC)
-- **Licence commerciale** pour intégration industrielle
+| Document | Rôle |
+|----------|------|
+| **[LICENSE.md](governance/LICENSE.md)** | Usage non-commercial (CC BY-NC 4.0) |
+| **[COMMERCIAL_LICENSE_EN.md](governance/COMMERCIAL_LICENSE_EN.md)** | Conditions & tarif pour exploitation commerciale |
+| **[TRANSITION_TO_COMMERCIAL_USE.md](governance/TRANSITION_TO_COMMERCIAL_USE.md)** | Procédure pour passer du NC au commercial |
+| **[LEGAL_NOTICE.md](governance/LEGAL_NOTICE.md)** | Mentions légales de l’auteur |
+| **[LEGAL_POSITION.md](governance/LEGAL_POSITION.md)** | Précision : publication d’idées + antériorité |
+| **[ETHICAL_CHARTER.md](governance/ETHICAL_CHARTER.md)** | Charte éthique du projet |
 
 ---
 
