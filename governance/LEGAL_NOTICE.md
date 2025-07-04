@@ -13,3 +13,21 @@ L’auteur se réserve le droit :
 
 **Auteur :** Fabien Buisson  
 **Email :** fbuisson38550@gmail.com
+
+---
+
+# Legal Notice – Plushie – breathe with me
+
+This project is an original idea published publicly for sharing, inspiration and collaborative exploration.
+
+Any commercial exploitation requires a **specific commercial licence**.
+
+The associated GitHub repository constitutes proof of prior publication.
+
+The author reserves the right to:
+- Legally protect certain developments
+- Contact any entity using the concept without a valid licence
+- Eventually propose industrialisation or open collaboration
+
+**Author:** Fabien Buisson  
+**Email:** fbuisson38550@gmail.com
