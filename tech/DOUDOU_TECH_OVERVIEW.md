@@ -37,12 +37,14 @@ Quand inutiliser pendant x temps :
 
 ---
 
+Pression → Dynamo → Supercondo → MCU (+ batterie) → Pompe → Ballon → Clapet.
+
+---
+
 ## 👁️ Clignement des yeux (optionnel)
 
 - Un **capteur de lumière** permet de déclencher le clignement régulier des yeux du Doudou (ex. toutes les 20 sec).
 - Ce module consomme peu et fonctionne tant que la dynamo a de l’énergie.
-
-![Schéma](images/Plushie_schema.jpg)
 
 ---
 
