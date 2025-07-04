@@ -70,6 +70,15 @@ Ainsi, le jouet combine **interaction pédagogique** (gestes de premiers secours
 
 ---
 
+## 👶 Child safety
+
+Tous les matériaux, dimensions et méthodes d’assemblage ont été pensés pour répondre aux normes jouets (EN 71-1/2/3).  
+🔒 Boîtier sécurisé, vis noyées, mousse de protection, câbles débranchables avant lavage, etc.
+
+> 📄 **Détails complets ➜** [tech/CHILD_SAFETY.md](tech/CHILD_SAFETY.md)
+
+---
+
 ## 📜 Licences & cadre légal  
 
 | Document | Rôle |
@@ -154,6 +163,15 @@ The toy therefore combines **hands‑on first‑aid interaction** with **extende
 - **Textile or printed body**, ergonomic and cuddly
 
 🚀 [Future ideas & extensions](tech/Plushie_FUTURE_IDEAS.md)
+
+---
+
+## 👶 Child safety
+
+All materials, dimensions, and assembly methods have been designed to meet toy standards (EN 71-1/2/3).
+🔒 Secure casing, countersunk screws, protective foam, cables that can be disconnected before washing, etc.
+
+> 📄 **Full details ➜** [tech/CHILD_SAFETY.md](tech/CHILD_SAFETY.md)
 
 ---
 
