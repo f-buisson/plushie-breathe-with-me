@@ -12,16 +12,30 @@ Un objet affectif, éducatif et low-tech, pensé pour éveiller à la tendresse,
 
 ---
 
-## 🌬️ Principe
+## 🌬️ Principe de fonctionnement
 
-Le doudou simule une **respiration calme** grâce à un système interne mécanique ou électromécanique (soufflet, pompe, volume mobile).  
-Lorsqu’il "s’épuise" (plus d’énergie), il **cesse de respirer** et **ferme les yeux**.
+Le doudou **respire doucement** : son ventre se gonfle (inspiration) puis se dégonfle (expiration) à l’aide d’une mini-pompe et de clapets internes.  
+S’il n’est **pas stimulé pendant une longue période** (`T_pause` : 10 – 60 min réglable), il **s’endort** : respiration stoppée, yeux fermés (ou LED cœur éteinte).
 
-Pour le “réveiller”, il faut **lui faire un massage cardiaque doux**.  
-Ce geste :
-- Active une **dynamo miniature** ou recharge un composant électrique
-- Relance le **cycle de respiration**
-- Émet un **son,  lumière ou ouverture des yeux** simulant un retour à la vie
+### ⚡ Comment le « réanimer » ?
+
+| Étape | Action | Explication |
+|-------|--------|-------------|
+| **1. Massage « cœur »** | 2 – 4 pressions | La **micro-dynamo** convertit la pression en électricité. |
+| **2. Flash d’énergie** | Supercondensateur 5 F | Stocke le pic et réveille le microcontrôleur (MCU). |
+| **3. Prise de relais batterie** | Li-ion 18650 ≈ 3 000 mAh | Alimente la respiration **1 – 3 h par jour** → **≈ 3 semaines** d’autonomie entre recharges USB-C. |
+| **4. Respiration active** | 8 cycles/min | <br>• **Inspiration :** pompe 30 mA pendant 0,3 s, clapet entrée ON.<br>• **Expiration :** clapet silicone laisse l’air sortir doucement. |
+| **5. Mise en pause auto** | Inactivité ≥ `T_pause` | MCU coupe la pompe, repasse en deep-sleep (< 10 µA). Un nouveau massage est requis pour repartir. |
+
+> **Effet visible :** au massage, le doudou « revient à la vie » : LED cœur qui pulse ou yeux qui s’ouvrent, puis respiration régulière.
+
+### 🗒️ Résumé énergie
+
+- La dynamo **n’est pas la source principale** : elle sert à déclencher.  
+- La batterie assure la longue autonomie.  
+- Si l’enfant câline ou bouge le doudou, le minuteur `T_pause` est remis à zéro ; il ne s’éteint donc pas en plein jeu. 
+
+Ainsi, le jouet combine **interaction pédagogique** (gestes de premiers secours) et **usage prolongé** sans recharge quotidienne.
 
 🔧 [Vue d’ensemble technique détaillée](tech/DOUDOU_TECH_OVERVIEW.md)
 🔌 [Cycle énergétique & autonomie](tech/POWER_LIFECYCLE.md)
@@ -96,18 +110,33 @@ An emotional, educational and low‑tech object designed to awaken tenderness, s
 
 ---
 
-## 🌬️ Principle
+## 🌬️ Operating Principle
 
-The plush simulates **calm breathing** using an internal mechanical or electromechanical system (bellows, pump, moving volume).  
-When it *runs out of power*, it **stops breathing** and **closes its eyes**.
+The plush **breathes gently**: its belly rises (inhalation) and falls (exhalation) thanks to a mini‑pump and internal check‑valves.  
+If it is **left untouched for an extended period** (`T_pause`: 10 – 60 min, adjustable), it **falls asleep**: breathing stops and its eyes close (or the heart‑LED fades out).
 
-To *revive* it, give it a **gentle cardiac massage**.  
-This gesture:
-- Activates a **miniature dynamo** or recharges an electrical component
-- Restarts the **breathing cycle**
-- Emits a **sound, light or eye‑opening** to simulate a return to life
+### ⚡ How to “revive” it?
+
+| Step | Action | What happens |
+|------|--------|--------------|
+| **1. “Heart‑massage”** | 2 – 4 presses | The **micro‑dynamo** converts the presses into electricity. |
+| **2. Energy flash** | 5 F super‑capacitor | Stores the spike and wakes the micro‑controller (MCU). |
+| **3. Battery takes over** | 18650 Li‑ion ≈ 3 000 mAh | Powers breathing for **1 – 3 h per day** → **≈ 3 weeks** between USB‑C recharges. |
+| **4. Active breathing** | 8 cycles / min | • **Inhale:** pump 30 mA for 0.3 s, intake valve ON.<br>• **Exhale:** silicone outlet valve vents air softly. |
+| **5. Auto‑pause** | Inactivity ≥ `T_pause` | MCU stops the pump and returns to deep‑sleep (< 10 µA). A new massage is needed to restart. |
+
+> **Visible effect:** during the massage the plush “comes back to life”: the heart‑LED pulses or its eyes open, then a steady breathing rhythm resumes.
+
+### 🗒️ Energy at a Glance
+
+- The dynamo is **not the main power source**; it simply triggers the system.  
+- The battery provides long‑term autonomy.  
+- If the child cuddles or moves the plush, the `T_pause` timer resets, so it won’t power down mid‑play.
+
+The toy therefore combines **hands‑on first‑aid interaction** with **extended use** that doesn’t require daily charging.
 
 🔧 [Detailed technical overview](tech/DOUDOU_TECH_OVERVIEW.md)
+🔌 [Energy cycle & autonomy](tech/POWER_LIFECYCLE.md)
 
 ---
 
