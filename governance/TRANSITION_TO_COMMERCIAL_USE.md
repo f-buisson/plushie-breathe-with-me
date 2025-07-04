@@ -15,9 +15,10 @@ Pour toute **exploitation commerciale**, merci d’acquérir la licence suivante
 
 ---
 
-## 📥 Obtenir la licence commerciale
-👉 **[Acheter la licence sur LemonSqueezy](https://f-buisson.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f769aad)**  
-*(le paiement déclenche l’envoi automatique d’un PDF nominatif signé)*
+## 📥 Obtenir la licence commerciale  
+Licence délivrée par **Fabien Buisson – Entrepreneur Individuel (SIREN 988 516 506)**  
+👉 [Acheter la licence sur LemonSqueezy](https://f-buisson.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f769aad)  
+*(Le paiement déclenche l’envoi automatique d’un PDF nominatif signé.)*
 
 ---
 
@@ -48,6 +49,7 @@ For any **commercial exploitation**, please acquire the following licence:
 ---
 
 ## 📥 Obtain the Commercial Licence
+License issued by **Fabien Buisson – Individual Entrepreneur (SIREN 988 516 506)**
 👉 **[Purchase the licence on LemonSqueezy](https://f-buisson.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f769aad)**  
 *(payment automatically triggers delivery of a signed, personalized PDF)*
 
