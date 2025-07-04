@@ -19,3 +19,27 @@ Voici comment vous pouvez participer :
 - Restez bienveillant
 - Évitez les idées trop vagues ou invérifiables
 - N'intégrez aucun contenu soumis à des droits sans autorisation claire
+
+---
+
+# 🤝 Contribute to the Plushie – breathe with me project
+
+Thank you for wanting to contribute! This project aims to explore biomimetic mechanics that are accessible to everyone.  
+Here’s how you can get involved:
+
+## 📌 Ways to contribute
+- Propose technical improvements (systems, materials, efficiency)
+- Offer ideas for use‑case scenarios or educational extensions
+- Provide diagrams, 3D models or illustrations
+- Suggest ethical or legal evolutions of the concept
+
+## 📤 Process
+1. Fork the GitHub repository  
+2. Create a branch (`feature/improvement-x`)  
+3. Submit a clear, well‑documented pull request  
+4. Wait for review and approval  
+
+## 🧠 Rules
+- Be respectful  
+- Avoid ideas that are too vague or unverifiable  
+- Do not include any content under rights without explicit authorization
