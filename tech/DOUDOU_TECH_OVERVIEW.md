@@ -43,3 +43,53 @@ Quand la dynamo est vide :
 - Ce module consomme peu et fonctionne tant que la dynamo a de l’énergie.
 
 ![Schéma](images/Plushie_schema.jpg)
+
+---
+
+# ⚙️ How Plushie – breathe with me Works
+
+The Plushie is designed to simulate **rhythmic breathing**, providing **emotional and tactile comfort** to the child through realistic cycles of **inhalation and exhalation**.  
+An internal system made up of a flexible bladder, a one‑way air circuit and a micro‑dynamo‑powered activation mechanism imitates natural breathing in a gentle, passive manner.
+
+The major innovation of the Plushie lies in its **ability to “stop breathing”** and be **manually resuscitated**.  
+If the Plushie ceases all activity (for example after a long period of disuse), a **gentle chest massage** applied to the heart area restarts the dynamo and allows the breathing cycle to resume. This mechanism makes the object **interactive and educational**, raising the child’s awareness of first‑aid gestures in a playful, symbolic way.
+
+This **simulated resuscitation** feature brings the Plushie to life, strengthening the emotional bond and fostering an **early awareness of the importance of caring for others**.
+
+---
+
+## 🔋 On‑board Energy
+
+- The system is **powered by an integrated dynamo**.  
+- This dynamo is **activated by manual pressure** on the Plushie’s “heart” area (chest massage).  
+- The generated energy powers:  
+  - a **mini inhalation pump** that inflates the internal bladder,  
+  - a **small control circuit** (eye blinking, rhythm, etc.).  
+
+When the dynamo is empty:  
+- The Plushie stops breathing (as if asleep).  
+- The user must **reactivate the dynamo** to “wake it up”.
+
+---
+
+## 🌬️ Simulated Breathing (Inhalation/Exhalation)
+
+- **Inhalation:**  
+  - Dynamo energy powers a **one‑way pump** that fills a **flexible bladder** inside the Plushie.  
+  - Air intake is regulated by an **admission check valve**.
+
+- **Exhalation:**  
+  - When the bladder reaches a **maximum volume**, a **mechanical purge system** opens (pressure or volume threshold).  
+  - The air is expelled through an outlet, simulating a **gentle exhalation**.
+
+- **Alternating inlet/outlet blocking:**  
+  - The inlet is **automatically blocked** during exhalation, and vice versa, ensuring a smooth breathing cycle.
+
+---
+
+## 👁️ Eye Blinking (Optional)
+
+- A **light sensor** triggers regular blinking of the Plushie’s eyes (e.g. every 20 s).  
+- This module consumes little power and operates as long as the dynamo has energy.
+
+![Schéma](images/Plushie_schema.jpg)
