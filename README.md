@@ -57,6 +57,15 @@ Ce geste :
 
 ---
 
+## 🚩 Roadmap (v0.1 — Q3 2025)
+| Étape | Description | Statut |
+|-------|-------------|--------|
+| 🔧 Maquette 3D | Modéliser pompe + ballon dans FreeCAD | 🟡 En cours |
+| 🧵 Prototype soft | Patron couture + cousu main tissu coton | ⬜ |
+| ⚡ Test dynamo | Micro-générateur 3 V actionné par pression | ⬜ |
+
+---
+
 ## 📜 Licences & cadre légal  
 
 | Document | Rôle |
@@ -128,6 +137,16 @@ This gesture:
 - **Textile or printed body**, ergonomic and cuddly
 
 🚀 [Future ideas & extensions](tech/Plushie_FUTURE_IDEAS.md)
+
+---
+
+## 🚩 Roadmap (v0.1 — Q3 2025)
+
+| Step | Description | Status |
+|------|-------------|--------|
+| 🔧 3D Mock‑up | Model pump + bladder in FreeCAD | 🟡 In progress |
+| 🧵 Soft Prototype | Sewing pattern + hand‑sewn cotton fabric | ⬜ Not started |
+| ⚡ Dynamo Test | 3 V micro‑generator actuated by pressure | ⬜ Not started |
 
 ---
 
