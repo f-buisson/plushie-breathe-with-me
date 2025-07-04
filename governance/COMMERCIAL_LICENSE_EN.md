@@ -3,6 +3,7 @@
 
 **Version**: 1.0  
 **Author**: F. Buisson  
+**Rights Holder**: Fabien Buisson – Entrepreneur Individuel (SIREN 988 516 506)  
 **Contact**: fbuisson38550@gmail.com  
 **License Scope**: Applies to all current and future projects published on the GitHub repository: [https://github.com/f-buisson](https://github.com/f-buisson)
 
@@ -36,11 +37,7 @@ The license entitles the buyer to:
 ## 📄 Included Projects
 
 The license includes, but is not limited to:
-
-- SCGFAMP (Gravitoflotation Concept)
-- MORPH0 (Modular Soft Device Framework)
-- DOUDOU (Plush breathing simulator)
-- WALKPOWER
+- Applies to all current and future projects published on the GitHub repository: [https://github.com/f-buisson](https://github.com/f-buisson)
 - All other future public repositories under f-buisson.
 
 ---
