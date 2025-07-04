@@ -8,8 +8,8 @@ Un objet affectif, éducatif et low-tech, pensé pour éveiller à la tendresse,
 
 ---
 
-![Schéma](images/Plushie - breathe with me SCHEMA.jpg)
-![image](images/Plushie - breathe with me S- save me.png)
+![Schéma](images/Plushie-schema.jpg)
+![image](images/Plushie-save-me.png)
 
 ---
 
