@@ -1,11 +1,11 @@
 # Dual Licensing Notice  
 
-**Copyright © Fabien Buisson – Entrepreneur Individuel, 2023-2025**
++ **Copyright © Fabien Buisson – Entrepreneur Individuel, 2023-2025**
 + **Copyright © 2023-2025 Fabien Buisson – Entrepreneur Individuel (SIREN 988 516 506)**
 
 | Scope | Licence | Link |
- | **Hardware & design files** ... |
- | **Documentation, schematics PDF, images, text** ... |
+ | **Hardware & design files** ... | https://cern-ohl.web.cern.ch/ |
+ | **Documentation, schematics PDF, images, text** ... | https://creativecommons.org/licenses/by-nc-sa/4.0/ |
 +| **Software / Firmware (source)** | **MIT Licence** | https://opensource.org/licenses/MIT |
 
 
