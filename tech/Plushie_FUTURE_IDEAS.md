@@ -194,6 +194,47 @@ This file presents a series of potential extensions for the **Plushie – breath
 
 ---
 
+## ❤️ 10. Heartbeat Module
+- **Goal**  
+  Generate a soft, tangible pulse — 60 to 120 bpm — the child can feel through the plush.
+- **Why**  
+  Strengthens emotional bonding; rhythmic vibration promotes calmness.
+- **Tech**  
+  - Ultra-low-power MCU (ESP32-C3 or ATTiny)  
+  - 3 V / 8 mm eccentric vibration motor glued to an internal ABS shell  
+  - Power: 3 × AAA NiMH or one LiFePO₄ 700 mAh → ≈ 2 weeks in eco-mode  
+  - PWM control (30-120 bpm randomised)
+
+---
+
+## 🔥 11. Gentle Body-Warmth Pad
+- **Goal**  
+  Provide mild warmth (36-38 °C) during the bedtime routine.
+- **Why**  
+  Mimics a warm cuddle; helps children relax without burn risk.
+- **Tech**  
+  - Polyimide heater film 5 V / 1 W (30 × 30 mm)  
+  - NTC sensor + MCU PID regulation  
+  - Auto-shut-off after 20 min to save battery  
+  - Insulation: thin silicone foam layer + breathable outer fabric
+
+---
+
+## ✋ 12. Touch-Reactive Fur
+- **Goal**  
+  Detect gentle strokes and trigger a soft purring sound or calming light.
+- **Why**  
+  Encourages gentle interaction; positive feedback teaches care.
+- **Tech**  
+  - Sewn capacitive pads (conductive thread + MPR121 controller)  
+  - Low-brightness RGB LEDs for a soothing halo  
+  - 0.5 W mini speaker → “purr” sound at 150 Hz / 45 dB  
+  - Sleep mode: sensors disabled after 30 min inactivity
+
+---
+
+---
+
 ## 🚀 Conclusion
 
 The Plushie can become an evolving platform, bridging toy, educational tool and **intelligent protective companion**. It addresses emotional, cognitive and safety needs.
