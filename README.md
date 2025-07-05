@@ -1,4 +1,4 @@
-[![Dual Licence](https://img.shields.io/badge/License-Dual%20(CC--BY--NC%204.0 %2B Commercial)-blue)](governance/DUAL_LICENSE.md)
+[![Dual Licence](https://img.shields.io/badge/License-Dual%20%7C%20CERN--OHL--S%20%2B%20CC--BY--NC_4.0-blue)](governance/DUAL_LICENSE.md)
 [![Commercial](https://img.shields.io/badge/Commercial%20Use-€4000/yr-blue)](governance/COMMERCIAL_LICENSE_EN.md)
 
 # ❤️ Plushie - breathe with me
@@ -94,7 +94,7 @@ Tous les matériaux, dimensions et méthodes d’assemblage ont été pensés po
 
 > “Quand ton geste redonne vie, même les objets respirent à nouveau.”
 > 
-[![Dual Licence](https://img.shields.io/badge/License-Dual%20(CC--BY--NC%204.0 %2B Commercial)-blue)](governance/DUAL_LICENSE.md)
+[![Dual Licence](https://img.shields.io/badge/License-Dual%20%7C%20CERN--OHL--S%20%2B%20CC--BY--NC_4.0-blue)](governance/DUAL_LICENSE.md)
 [![Commercial](https://img.shields.io/badge/Commercial%20Use-€4000/yr-blue)](governance/COMMERCIAL_LICENSE_EN.md)
 
 # ❤️ Plushie - breathe with me
