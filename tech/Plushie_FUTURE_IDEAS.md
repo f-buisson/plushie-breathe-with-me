@@ -68,6 +68,47 @@ Ce fichier présente une série d’extensions potentielles du projet **Plushie 
 
 ---
 
+## ❤️ 10. Battements de cœur / Heartbeat Module
+- **Objectif / Goal**  
+  Simuler un pouls régulier (60-120 bpm) que l’enfant peut sentir au toucher.
+- **Pourquoi / Why**  
+  Renforcer le lien affectif ; effet calmant proche d’un vrai battement cardiaque.
+- **Techno / Tech**  
+  - Micro-contrôleur ultra-basse conso (ESP32-C3 ou ATTiny)  
+  - Moteur excentrique 3 V / 8 mm collé sur une coque ABS interne  
+  - 3× AAA NiMH ou LiFePO₄ 700 mAh → ≈ 2 semaines d’autonomie en mode éco  
+  - Pilotage PWM (30-120 bpm)
+
+---
+
+## 🔥 11. Chaleur corporelle douce / Gentle Body-Warmth Pad
+- **Objectif / Goal**  
+  Diffuser une chaleur modérée (36-38 °C) pendant la phase d’endormissement.
+- **Pourquoi / Why**  
+  Effet “câlin chaud” ; aide à la détente sans risque de brûlure.
+- **Techno / Tech**  
+  - Film chauffant polyimide 5 V / 1 W (30 × 30 mm)  
+  - Sonde NTC + régulation PID dans le MCU  
+  - Coupure auto après 20 min pour économiser la batterie  
+  - Isolation : fine couche mousse silicone + tissu respirant
+
+---
+
+## ✋ 12. Fourrure réactive au toucher / Touch-Reactive Fur
+- **Objectif / Goal**  
+  Détecter les caresses ; déclencher un léger ronronnement sonore ou lumineux.
+- **Pourquoi / Why**  
+  Encourager l’interaction, apprendre la douceur (feedback positif).
+- **Techno / Tech**  
+  - Capteurs capacitifs cousus (fil conducteur + contrôleur MPR121)  
+  - LED RGB faible luminosité pour un halo de couleur apaisant  
+  - Petit haut-parleur 0 ,5 W → bruit “purr” 150 Hz / 45 dB  
+  - Mode veille : capteurs désactivés après 30 min d’inaction
+
+---
+
+---
+
 ## 🚀 Conclusion
 
 Le projet DOUDOU peut devenir une plateforme évolutive, entre le jouet, l’outil éducatif et le **compagnon protecteur intelligent**. Il répond à des besoins affectifs, cognitifs et sécuritaires.
