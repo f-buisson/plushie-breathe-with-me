@@ -1,4 +1,4 @@
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-BY--NC_4.0-lightgrey.svg)](governance/LICENSE.md)
+[![Dual Licence](https://img.shields.io/badge/License-Dual%20(CC--BY--NC%204.0 %2B Commercial)-blue)](governance/DUAL_LICENSE.md)
 [![Commercial](https://img.shields.io/badge/Commercial%20Use-€4000/yr-blue)](governance/COMMERCIAL_LICENSE_EN.md)
 
 # ❤️ Plushie - breathe with me
@@ -83,7 +83,7 @@ Tous les matériaux, dimensions et méthodes d’assemblage ont été pensés po
 
 | Document | Rôle |
 |----------|------|
-| **[LICENSE.md](governance/LICENSE.md)** | Usage non-commercial (CC BY-NC 4.0) |
+| **[DUAL_LICENSE.md](governance/DUAL_LICENSE.md)** | Usage non-commercial (CERN-OHL-S-2.0 / CC-BY-NC-SA-4.0) |
 | **[COMMERCIAL_LICENSE_EN.md](governance/COMMERCIAL_LICENSE_EN.md)** | Conditions & tarif pour exploitation commerciale |
 | **[TRANSITION_TO_COMMERCIAL_USE.md](governance/TRANSITION_TO_COMMERCIAL_USE.md)** | Procédure pour passer du NC au commercial |
 | **[LEGAL_NOTICE.md](governance/LEGAL_NOTICE.md)** | Mentions légales de l’auteur |
@@ -93,8 +93,8 @@ Tous les matériaux, dimensions et méthodes d’assemblage ont été pensés po
 ---
 
 > “Quand ton geste redonne vie, même les objets respirent à nouveau.”
-
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-BY--NC_4.0-lightgrey.svg)](governance/LICENSE.md)
+> 
+[![Dual Licence](https://img.shields.io/badge/License-Dual%20(CC--BY--NC%204.0 %2B Commercial)-blue)](governance/DUAL_LICENSE.md)
 [![Commercial](https://img.shields.io/badge/Commercial%20Use-€4000/yr-blue)](governance/COMMERCIAL_LICENSE_EN.md)
 
 # ❤️ Plushie - breathe with me
@@ -179,7 +179,7 @@ All materials, dimensions, and assembly methods have been designed to meet toy s
 
 | Document | Role |
 |----------|------|
-| **[LICENSE.md](governance/LICENSE.md)** | Non‑commercial use (CC BY‑NC 4.0) |
+| **[DUAL_LICENSE.md](governance/DUAL_LICENSE.md)** | Non‑commercial use (CERN-OHL-S-2.0 / CC-BY-NC-SA-4.0) |
 | **[COMMERCIAL_LICENSE_EN.md](governance/COMMERCIAL_LICENSE_EN.md)** | Terms & fee for commercial use |
 | **[TRANSITION_TO_COMMERCIAL_USE.md](governance/TRANSITION_TO_COMMERCIAL_USE.md)** | Procedure to switch from NC to commercial |
 | **[LEGAL_NOTICE.md](governance/LEGAL_NOTICE.md)** | Author’s legal notice |
