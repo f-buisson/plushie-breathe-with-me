@@ -23,7 +23,7 @@ Licence délivrée par **Fabien Buisson – Entrepreneur Individuel (SIREN 988 5
 ---
 
 ### ❗ Rappel
-L’usage **non-commercial** reste couvert par la licence CC-BY-NC 4.0 du dépôt.  
+L’usage **non-commercial** reste couvert par DUAL_LICENSE.md du dépôt.  
 Seule l’exploitation **commerciale** requiert cette licence.
 
 ### 📧 Contact (optionnel avant achat)
@@ -56,7 +56,7 @@ License issued by **Fabien Buisson – Individual Entrepreneur (SIREN 988 516 50
 ---
 
 ### ❗ Reminder
-**Non‑commercial** use remains covered by the repository’s CC‑BY‑NC 4.0 licence.  
+**Non‑commercial** use remains covered by the repository’s DUAL_LICENSE.md.  
 Only **commercial** exploitation requires this licence.
 
 ### 📧 Contact (optional before purchase)
