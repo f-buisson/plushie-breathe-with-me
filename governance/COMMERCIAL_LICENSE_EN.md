@@ -74,4 +74,4 @@ fbuisson38550@gmail.com
 
 *(Electronic signature via LemonSqueezy invoice = proof of purchase)*
 
-Link : https://f-buisson.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
+Link : https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
