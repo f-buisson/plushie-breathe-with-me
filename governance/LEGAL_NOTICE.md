@@ -16,7 +16,7 @@ L’auteur se réserve le droit :
 
 ---
 
-# Legal Notice – Plushie – breathe with me
+# Legal Notice
 
 This project is an original idea published publicly for sharing, inspiration and collaborative exploration.
 
