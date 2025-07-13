@@ -39,7 +39,7 @@ If you wish to:
 * Obtain **private deliverables** or **priority support**;
 
 please purchase the annual commercial licence via LemonSqueezy:  
-<https://f-buisson.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad>
+<https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad>
 
 Upon successful payment you will automatically receive (via Zapier) :
 1. A digitally signed **Commercial Licence PDF** (one‑year validity).  
@@ -54,7 +54,7 @@ Upon successful payment you will automatically receive (via Zapier) :
 
 > By cloning, downloading, or otherwise using the materials in this repository you agree to be bound by **either** (1) the open-source licences listed in §1 **or** (2) the commercial licence in §2. You must comply with exactly one option.
 
-If you are unsure which licence fits your use‑case, please open a GitHub Discussion or e‑mail **fbuisson38550@gmail.com** before starting your project.
+If you are unsure which licence fits your use‑case, please open a GitHub Discussion or e‑mail **scgfamp@hotmail.com** before starting your project.
 
 ---
 
