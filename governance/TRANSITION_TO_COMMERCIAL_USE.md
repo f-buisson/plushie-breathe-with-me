@@ -27,7 +27,7 @@ L’usage **non-commercial** reste couvert par DUAL_LICENSE.md du dépôt.
 Seule l’exploitation **commerciale** requiert cette licence.
 
 ### 📧 Contact (optionnel avant achat)
-fbuisson38550@gmail.com
+scgfamp@hotmail.com
 
 ---
 
@@ -59,4 +59,4 @@ License issued by **Fabien Buisson – Individual Entrepreneur (SIREN 988 516 50
 Only **commercial** exploitation requires this licence.
 
 ### 📧 Contact (optional before purchase)
-fbuisson38550@gmail.com
+scgfamp@hotmail.com
