@@ -7,7 +7,7 @@
 ## Rights Holder  
 Fabien Buisson – Entrepreneur Individuel (SIREN 988 516 506)  
 16 Rue Louise Michel, 38550 Saint-Maurice-l’Exil, France  
-Email : fbuisson38550@gmail.com
+Email : scgfamp@hotmail.com
 
 ---
 
@@ -69,7 +69,7 @@ The price is indexed to **1.5 oz of gold**. In case of major currency depreciati
 
 ## DIGITAL SIGNATURE  
 Fabien Buisson – EI  
-fbuisson38550@gmail.com  
+scgfamp@hotmail.com  
 <https://github.com/f-buisson>
 
 *(Electronic signature via LemonSqueezy invoice = proof of purchase)*
