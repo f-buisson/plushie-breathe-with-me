@@ -1,5 +1,8 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 
+**Language:** [English](#english) | [Français](#francais)
+
+<a id="english"></a>
 # ❤️ Plushie - breathe with me
 
 A biomimetic comfort plush that breathes, powers down… and can be resuscitated by gentle chest massage.  
@@ -109,6 +112,7 @@ Thank you for your support ✦
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 
+<a id="francais"></a>
 # ❤️ Plushie - breathe with me
 
 Un doudou biomimétique qui respire, s’éteint… et peut être réanimé par massage cardiaque.  
