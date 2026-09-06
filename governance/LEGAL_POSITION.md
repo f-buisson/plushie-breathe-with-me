@@ -20,12 +20,12 @@ Ce dépôt représente un **espace de documentation et de publication d’idées
 - Il est publié à but :
   - de **documentation de l’antériorité**,
   - de **proposition d’innovation ouverte**,
-  - et d’**éventuelle commercialisation encadrée** (via licences LemonSqueezy et github).
+  - et d’**éventuelle valorisation encadrée**, dans les limites fixées par DUAL_LICENSE.md.
 
 ---
 
 ### 📄 Protection juridique
-- L’auteur se réserve les **droits sur l’usage commercial**, encadrés par une licence disponible dans ce dépôt.
+- Les droits d’usage sont encadrés par les licences ouvertes décrites dans DUAL_LICENSE.md.
 - L’auteur ne revendique **aucun brevet** à ce jour, mais **publie de bonne foi** ses travaux pour :
   - créer une **preuve d’antériorité** (GitHub, Soleau, etc.),
   - permettre une **transparence totale** de sa démarche,
@@ -68,12 +68,12 @@ This repository represents a **space for documenting and publishing original ide
 - It is published with the aims of:  
   - **Documenting prior art**,  
   - **Proposing open innovation**,  
-  - And **potentially commercialising** the work under controlled terms (via LemonSqueezy licences and GitHub).
+  - And **potentially building on the work** under controlled terms, within the limits set by DUAL_LICENSE.md.
 
 ---
 
 ### 📄 Legal protection
-- The author reserves the **rights to commercial use**, governed by a licence available in this repository.  
+- Usage rights are governed by the open licences described in DUAL_LICENSE.md.  
 - The author claims **no patents** at this time, but **publishes in good faith** to:  
   - Create **proof of prior art** (GitHub, Soleau, etc.),  
   - Provide **full transparency** of his process,  

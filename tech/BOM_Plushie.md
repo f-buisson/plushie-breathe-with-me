@@ -6,10 +6,10 @@ Dual licence :
 • Docs & media: CC BY-NC-SA 4.0  
 Non-commercial use is free of charge with attribution.
 
-➡️  Commercial / professional use
-Any exploitation (sales, paid training, proprietary R&D, etc.) requires the
-purchase of the **Master Commercial Licence** (€ 4 000 per year) :
-https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
+➡️  Commercial use
+Commercial use of the hardware design is allowed under CERN-OHL-S 2.0 with the
+share-alike obligation. Commercial use of the documentation and media is outside
+CC BY-NC-SA 4.0 and is handled case by case by e-mail. Nothing is sold.
 
 By using this file you agree to the terms detailed in
 `governance/DUAL_LICENSE.md`.

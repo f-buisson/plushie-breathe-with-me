@@ -1,5 +1,3 @@
-[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
-
 **Language:** [English](#english) | [Français](#francais)
 
 <a id="english"></a>
@@ -85,32 +83,24 @@ All materials, dimensions, and assembly methods have been designed to meet toy s
 
 | Document | Role |
 |----------|------|
-| **[DUAL_LICENSE.md](governance/DUAL_LICENSE.md)** | Non‑commercial use (CERN-OHL-S-2.0 / CC-BY-NC-SA-4.0) |
-| **[COMMERCIAL_LICENSE_EN.md](governance/COMMERCIAL_LICENSE_EN.md)** | Terms & fee for commercial use |
-| **[TRANSITION_TO_COMMERCIAL_USE.md](governance/TRANSITION_TO_COMMERCIAL_USE.md)** | Procedure to switch from NC to commercial |
+| **[DUAL_LICENSE.md](governance/DUAL_LICENSE.md)** | Applicable licences (CERN-OHL-S-2.0 / CC-BY-NC-SA-4.0 / MIT) |
 | **[LEGAL_NOTICE.md](governance/LEGAL_NOTICE.md)** | Author’s legal notice |
 | **[LEGAL_POSITION.md](governance/LEGAL_POSITION.md)** | Clarification: publication of ideas & prior art |
 | **[ETHICAL_CHARTER.md](governance/ETHICAL_CHARTER.md)** | Project ethical charter |
 
 ---
 
-### 🫶 Support this project
+### 🫶 Support this work
 
-I release these projects as **open-hardware**, so anyone can study, adapt, and rebuild them freely.  
-If you'd like to help the development continue and support new prototypes:  
-👉 https://github.com/sponsors/f-buisson  
-Even a symbolic contribution helps to:
-- fund necessary materials
-- develop and test prototypes
-- cover software licensing fees (SolidWorks, etc.)
+These projects are released as open hardware so anyone can study, adapt and rebuild them.
+If you want to support the work, GitHub Sponsors is open:
+👉 https://github.com/sponsors/f-buisson
 
-Thank you for your support ✦
+Sponsoring is entirely optional. It grants **no** commercial rights, **no** licence and **no** private access — it simply helps fund materials and prototypes.
 
 ---
 
 > “When your gesture brings life back, even objects breathe again.”
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 
 <a id="francais"></a>
 # ❤️ Plushie - breathe with me
@@ -195,26 +185,20 @@ Tous les matériaux, dimensions et méthodes d’assemblage ont été pensés po
 
 | Document | Rôle |
 |----------|------|
-| **[DUAL_LICENSE.md](governance/DUAL_LICENSE.md)** | Usage non-commercial (CERN-OHL-S-2.0 / CC-BY-NC-SA-4.0) |
-| **[COMMERCIAL_LICENSE_EN.md](governance/COMMERCIAL_LICENSE_EN.md)** | Conditions & tarif pour exploitation commerciale |
-| **[TRANSITION_TO_COMMERCIAL_USE.md](governance/TRANSITION_TO_COMMERCIAL_USE.md)** | Procédure pour passer du NC au commercial |
+| **[DUAL_LICENSE.md](governance/DUAL_LICENSE.md)** | Licences applicables (CERN-OHL-S-2.0 / CC-BY-NC-SA-4.0 / MIT) |
 | **[LEGAL_NOTICE.md](governance/LEGAL_NOTICE.md)** | Mentions légales de l’auteur |
 | **[LEGAL_POSITION.md](governance/LEGAL_POSITION.md)** | Précision : publication d’idées + antériorité |
 | **[ETHICAL_CHARTER.md](governance/ETHICAL_CHARTER.md)** | Charte éthique du projet |
 
 ---
 
-### 🫶 Soutenir ce projet
+### 🫶 Soutenir ce travail
 
-Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
-Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
-👉 https://github.com/sponsors/f-buisson  
-Chaque contribution (même symbolique) permet de :
-- financer les matériaux nécessaires
-- développer et tester les prototypes
-- couvrir les licences logicielles (SolidWorks, etc.)
+Ces projets sont publiés en open hardware pour que chacun puisse les étudier, les adapter et les reconstruire.
+Si vous souhaitez soutenir ce travail, GitHub Sponsors est ouvert :
+👉 https://github.com/sponsors/f-buisson
 
-Merci pour ton soutien ✦
+Le sponsoring est entièrement facultatif. Il n’ouvre **aucun** droit commercial, **aucune** licence et **aucun** accès privé — il aide simplement à financer le matériel et les prototypes.
 
 ---
 

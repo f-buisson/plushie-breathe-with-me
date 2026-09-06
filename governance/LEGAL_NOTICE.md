@@ -1,17 +1,17 @@
-# Legal Notice
+# Mentions légales
 
 Ce projet est une idée originale publiée publiquement à des fins de partage, d’inspiration et d’exploration collaborative.
 
-Toute exploitation commerciale nécessite une **licence commerciale spécifique**.
+Les conditions d’utilisation sont celles décrites dans [DUAL_LICENSE.md](DUAL_LICENSE.md).
 
 Le dépôt GitHub associé fait foi d’antériorité de publication.
 
 L’auteur se réserve le droit :
-- De protéger juridiquement certaines évolutions
-- De contacter toute entité utilisant le concept sans licence valide
-- De proposer à terme une industrialisation ou collaboration ouverte
+- de protéger juridiquement certaines évolutions ;
+- de contacter toute entité utilisant le concept en dehors des licences applicables ;
+- de proposer à terme une industrialisation ou une collaboration ouverte.
 
-**Auteur :** Fabien Buisson  
+**Auteur :** Fabien Buisson
 **Email :** scgfamp@hotmail.com
 
 ---
@@ -20,14 +20,14 @@ L’auteur se réserve le droit :
 
 This project is an original idea published publicly for sharing, inspiration and collaborative exploration.
 
-Any commercial exploitation requires a **specific commercial licence**.
+The applicable terms of use are those described in [DUAL_LICENSE.md](DUAL_LICENSE.md).
 
 The associated GitHub repository constitutes proof of prior publication.
 
 The author reserves the right to:
-- Legally protect certain developments
-- Contact any entity using the concept without a valid licence
-- Eventually propose industrialisation or open collaboration
+- legally protect certain developments;
+- contact any entity using the concept outside the applicable licences;
+- eventually propose industrialisation or open collaboration.
 
-**Author:** Fabien Buisson  
+**Author:** Fabien Buisson
 **Email:** scgfamp@hotmail.com
