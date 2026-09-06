@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editeurs / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sauvegardes et temporaires CAO
+~$*
+*.bak
+*.orig
+*.tmp
+*.SLDPRT~
+*.SLDASM~
+*.SLDDRW~
+swp.*
+
+# Archives et binaires non versionnes
+*.zip
+*.rar
+*.7z
+*.exe
+
+# Secrets et environnement local
+.env
+.env.*
+*.pem
+*.key
